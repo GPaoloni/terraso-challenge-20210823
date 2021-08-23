@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Card {
+  height: 314px;
+  width: 226px;
+  margin: 10px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
